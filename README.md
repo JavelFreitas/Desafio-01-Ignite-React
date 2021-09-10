@@ -64,11 +64,12 @@ yarn test
 * Checar tarefa
 <h2 id="tecnologias">Tecnologias</h2>
 
-* React (Typescript)
-* SASS
-* Babel
-* Webpack
-* Jest
+* [React](https://pt-br.reactjs.org) 
+* [Typescript](https://www.typescriptlang.org)
+* [SASS](https://sass-lang.com)
+* [Babel](https://babeljs.io)
+* [Webpack](https://webpack.js.org)
+* [Jest](https://jestjs.io/pt-BR/)
 
 <h2 id="creditos">Créditos</h2>
 
