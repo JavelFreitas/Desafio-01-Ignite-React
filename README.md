@@ -2,7 +2,7 @@
 <h1 align="center">to.<strong>do</strong></h1>
 <p align="center">Este projeto é o Desafio 01 do Ignite React!</p>
 <h1 align="center">
-  <img alt="Tela inicial da aplidação to.do" title="#to-do" src="https://github.com/JavelFreitas/Desafio-01-Ignite-React/blob/main/assets/TelaInicial.PNG" />
+  <img alt="Tela inicial da aplicação to.do" title="#to-do" src="https://github.com/JavelFreitas/Desafio-01-Ignite-React/blob/main/assets/TelaInicial.PNG" />
 </h1>
 <img src="https://img.shields.io/apm/l/vim-mode"/>
 <img src="https://img.shields.io/npm/types/typescript?color=blue&label=language"/>
